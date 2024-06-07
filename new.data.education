@@ -1,0 +1,21 @@
+Level of education,Ethnicity,Number of Educated ,Total of Educated
+Higher,Bulgarian,1415052,1560028
+High school,Bulgarian,2447326,2878386
+Primary school,Bulgarian,610695,1001825
+Elementary or lower,Bulgarian,372862,666747
+A child does not yet attend school,Bulgarian,812,3179
+Higher,Roma,38807,1560028
+High school,Roma,171377,2878386
+Primary school,Roma,182020,1001825
+Elementary or lower,Roma,85419,666747
+A child does not yet attend school,Roma,236,3179
+Higher,Turkish,1768,1560028
+High school,Turkish,34013,2878386
+Primary school,Turkish,98138,1001825
+Elementary or lower,Turkish,101352,666747
+A child does not yet attend school,Turkish,281,3179
+Higher,Other,104401,1560028
+High school,Other,225670,2878386
+Primary school,Other,110972,1001825
+Elementary or lower,Other,107114,666747
+A child does not yet attend school,Other,1850,3179
